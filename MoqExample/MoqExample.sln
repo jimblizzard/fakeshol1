@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Players", "Players\Players.csproj", "{58CD13D8-7B87-4B81-8F37-4F6DE8C44487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Players.Tests.Unit", "Players.Tests.Unit\Players.Tests.Unit.csproj", "{3909F22A-FE8C-436A-8153-A079722B05CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CD13D8-7B87-4B81-8F37-4F6DE8C44487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CD13D8-7B87-4B81-8F37-4F6DE8C44487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CD13D8-7B87-4B81-8F37-4F6DE8C44487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CD13D8-7B87-4B81-8F37-4F6DE8C44487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3909F22A-FE8C-436A-8153-A079722B05CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3909F22A-FE8C-436A-8153-A079722B05CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3909F22A-FE8C-436A-8153-A079722B05CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3909F22A-FE8C-436A-8153-A079722B05CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A82CE86-4F7F-4186-AA1F-D284E9D6A7B9}
+	EndGlobalSection
+EndGlobal
